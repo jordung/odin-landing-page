@@ -39,6 +39,7 @@ body {
   padding: 80px 220px;
   flex: 1;
   gap: 48px;
+  flex-wrap: wrap;
 }
 
 .hero-left {
